@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Connor Koch
-- 🎓 I'm a 4th year undegraduate student at California State University of Long Beach (CSULB) studying computer science.
-- 👀 I’m interested in video game programming and computer security.
+- 🎓 I'm a recent college graduate from California State University of Long Beach (CSULB) and I studied computer science.
+- 👀 I’m interested in video game programming, computer security, and mobile application development.
 - 🌱 I’m currently learning how to use SQL with DataGrip and the defensive side of computer security.
 - :football: My hobbies include golfing, watching football and basketball, fishing, hanging out with friends, and playing video games.
 - 📫 How to reach me: connor.koch@yahoo.com
